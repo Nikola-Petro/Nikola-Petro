@@ -6,7 +6,7 @@
 
 - ⚡ **Check out ARC-Solutions**
 
-- 🏀 I’m currently learning **Data Visualisation with Python**
+- 🏀 I’m currently learning **Data Visualization with Python**
 
 
 
