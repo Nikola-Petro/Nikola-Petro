@@ -1,6 +1,6 @@
 <h1 align="center">Welcom to Niuku's Github</h1>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0d/d5/45/0dd545ec83e03e25fcfd6899fe09c910.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niukuu&label=Profile%20views&color=0e75b6&style=flat" alt="niukuu" /> </p>
+
+
 
 - ⚡ **Check out ARC-Solutions**
   
