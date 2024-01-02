@@ -6,7 +6,7 @@
 
 - ⚡ **Check out ARC-Solutions**
 
-- 🏀 I’m currently learning **Data Visualization with Python and Vue.js**
+- 🏀 I’m currently learning **Data Visualization with Python, Vue.js and PostgreSQL**
 
 
 
