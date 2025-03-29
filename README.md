@@ -1,5 +1,4 @@
-<h3 align="center">Hi! </h3>
-
+<h3 align="center">Hi, Nice to Meet You!</h3>
 - 🔭 I’m currently working on [IntelliQ.dev](http://app.intelliq.dev/)
 
 - 🌱 I’m currently learning **React, Tailwind CSS, Typescript**
