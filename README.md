@@ -1,6 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikola-petro" alt="nikola-petro" /></a> </p>
+<h3 align="center">Hi! </h3>
 
 - 🔭 I’m currently working on [IntelliQ.dev](http://app.intelliq.dev/)
 
