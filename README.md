@@ -14,4 +14,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikola-petro&show_icons=true&locale=en" alt="nikola-petro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikola-petro&" alt="nikola-petro" /></p>
